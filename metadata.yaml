@@ -1,0 +1,31 @@
+_repo: The-Heart-of-Thunder-Mountain_29697
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fischer, Anton Otto
+    birthdate: 1882
+    deathdate: 1962
+    gutenberg_agent_id: '8526'
+    url: http://www.gutenberg.org/2009/agents/8526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bingham, Edfrid A.
+    gutenberg_agent_id: '34093'
+    url: http://www.gutenberg.org/2009/agents/34093
+description: ''
+gutenberg_issued: '2009-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Heart of Thunder Mountain
+url: http://www.gutenberg.org/ebooks/29697
